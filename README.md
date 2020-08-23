@@ -1,2 +1,2 @@
 # React-Jobs-Portal
-Aplicacao desenvolvida usando React.js, React Hooks consumindo API GitHub Jobs
+Aplicação desenvolvida usando React.js, React Hooks consumindo API GitHub Jobs
